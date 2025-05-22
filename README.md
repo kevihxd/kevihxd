@@ -1,22 +1,88 @@
-<h1 align="center">HELLO WORD, I AM KEVIN MORENO</h1>
-<h3 align="center">JUNIOR DEVELOPER</h3>
+<h1 align="center">
+  👋 HELLO WORLD, I AM KEVIN MORENO
+</h1>
 
-- 🌱 I’m currently learning **git y github**
+<h3 align="center">
+  🧠 JUNIOR DEVELOPER | 📍 Colombia | ☕ Amante del café y la salchipapa
+</h3>
 
-- 📫 How to reach me **kevihxd@gmail.com**
-
-- 📄 Know about my experiences [Maestro de arduino, phyton y POO](Maestro de arduino, phyton y POO)
-
-- ⚡ Fun fact **Me gusta el cafe y la salchipapa**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/kevin moreno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kevin moreno" height="30" width="40" /></a>
-<a href="https://instagram.com/kevihxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kevihxd" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kevihxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kevihxd" height="30" width="40" /></a>
-<a href="https://discord.gg/5538" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5538" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&multiline=true&width=435&lines=Desarrollador+en+formación;Apasionado+por+la+tecnología+y+el+arte;Bienvenido+a+mi+perfil+de+GitHub!" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+---
 
+### 🚀 Sobre mí
+
+- 🌱 Actualmente aprendiendo **Git y GitHub**
+- 🧩 Maestro de **Arduino, Python y Programación Orientada a Objetos**
+- 📫 Contacto: **kevihxd@gmail.com**
+- ⚡ Dato curioso: **Me gusta el café y la salchipapa 🍟☕**
+
+---
+
+### 📱 Conéctate conmigo
+
+<p align="left">
+  <a href="https://fb.com/kevin moreno" target="blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/kevihxd" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/c/kevihxd" target="blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/5538" target="blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Tecnologías y herramientas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,python,c,cpp,git,linux,unity,unreal,illustrator,photoshop,androidstudio,blender,zapier,ifttt" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kevihxd&show_icons=true&theme=radical" alt="Kevin GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kevihxd&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🎨 Ilustración personalizada
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kevinpatel04/kevinpatel04/master/hero.svg" alt="coding boy" width="70%" />
+</p>
+
+---
+
+### 📄 Mis experiencias
+
+- 🧑‍🏫 [Maestro de Arduino, Python y POO](#) *(pendiente agregar enlace real)*
+- 🧪 Proyectos de automatización con Zapier e IFTTT
+- 🎮 Juegos básicos desarrollados en Unity y Unreal Engine
+- 🎨 Edición creativa con Illustrator y Photoshop
+
+---
+
+### 🎯 Objetivo
+
+Ser un desarrollador profesional capaz de crear soluciones creativas y útiles para el mundo real. 🌎🚀
+
+---
+
+> *“El éxito es la suma de pequeños esfuerzos repetidos día tras día.” – Robert Collier*
+
+---
