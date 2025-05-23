@@ -6,11 +6,6 @@
   🧠 JUNIOR DEVELOPER | 📍 Colombia | ☕ Amante del café y la salchipapa
 </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&multiline=true&width=435&lines=Desarrollador+en+formación;Apasionado+por+la+tecnología+y+el+arte;Bienvenido+a+mi+perfil+de+GitHub!" alt="Typing SVG" />
-</p>
-
----
 
 ### 🚀 Sobre mí
 
@@ -57,16 +52,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kevihxd&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
-
----
-
-### 🎨 Ilustración personalizada
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kevinpatel04/kevinpatel04/master/hero.svg" alt="coding boy" width="70%" />
-</p>
-
----
 
 ### 📄 Mis experiencias
 
