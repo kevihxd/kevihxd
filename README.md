@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  🧠 JUNIOR DEVELOPER | 📍 Colombia | ☕ Amante del café y la salchipapa
+  🧠 SENIOR DEVELOPER | 📍 Colombia | ☕ Amante del café y la salchipapa
 </h3>
 
 
