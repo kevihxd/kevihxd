@@ -2,9 +2,9 @@
 
   # 👋 ¡Hola! Soy Kevin Duvan Moreno Serrano (@kevihxd)
 
-  ### 🧠 Senior Full-Stack Developer | 🏗️ Arquitecto de Software & Infraestructura IT | ⚡ Especialista en Electrónica & IoT
+  ### 🧠 Semi senior Full-Stack Developer | 🏗️  Coordinador de Software & Infraestructura IT | ⚡ Especialista en Electrónica & IoT
   
-  📍 Cúcuta, Colombia &nbsp;|&nbsp; ☕ Impulsado por buen café y código limpio
+  📍 Cúcuta, Colombia &nbsp;|&nbsp; ☕ Impulsado por buen café
 
   <br />
 
@@ -31,7 +31,7 @@
 
 ### 🚀 Perfil Profesional
 
-Ingeniero de Sistemas, Desarrollador de Software Senior y Docente Técnico con sólida experiencia en el diseño de arquitecturas empresariales escalables, gestión de infraestructura IT e integración de hardware. 
+Ingeniero de software en formacion, Desarrollador de Software semi-Senior y Docente Técnico con sólida experiencia en el diseño de arquitecturas empresariales escalables, gestión de infraestructura IT e integración de hardware. 
 
 Especializado en el ecosistema **Java (Spring Boot)** para soluciones backend robustas bajo principios de **Clean Code** y arquitecturas modulares en capas. Combino el desarrollo de software de alto nivel con el diseño electrónico, diagnóstico de hardware a nivel de componente y sistemas embebidos.
 
